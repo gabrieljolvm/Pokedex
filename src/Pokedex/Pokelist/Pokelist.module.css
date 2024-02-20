@@ -1,0 +1,29 @@
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 18px;
+    height: 100px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.wrapper span{
+    text-align: start;
+}
+
+.wrapper img{
+    height: 90px;
+}
+
+.name{
+    width: 120px;
+}
+
+.name::first-letter{
+    text-transform: uppercase;
+}
+
+.exp{
+    width: 90px;
+}
