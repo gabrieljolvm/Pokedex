@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  box-sizing: border-box ;
+  margin: 0;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+  width: 100vw;
+  height: 100vh;
+  background-image: url(/Bulbassauro.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.wrapper{
+  padding-left: 200px;
+  padding-top: 50px;
+}
